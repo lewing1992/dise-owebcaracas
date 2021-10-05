@@ -1,2 +1,2 @@
 # dise-owebcaracas
-Se realizan paginas web a como precios
+Se realizan paginas web a comodo precios
